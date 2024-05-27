@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/67cd5528ecda4432a8bd35cb15df6124/artifacts
+end_time: 1716829768745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67cd5528ecda4432a8bd35cb15df6124
+run_name: sincere-hound-652
+run_uuid: 67cd5528ecda4432a8bd35cb15df6124
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716829757005
+status: 3
+tags: []
+user_id: codespace

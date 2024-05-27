@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8a444f8aa905413da8fef31cf162f931/artifacts
+end_time: 1716826940709
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a444f8aa905413da8fef31cf162f931
+run_name: burly-bee-743
+run_uuid: 8a444f8aa905413da8fef31cf162f931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716826928753
+status: 3
+tags: []
+user_id: codespace

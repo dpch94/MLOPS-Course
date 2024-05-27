@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/352a1004d31843e98da6f1e1c8e712d5/artifacts
+end_time: 1716828186344
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 352a1004d31843e98da6f1e1c8e712d5
+run_name: amusing-ram-857
+run_uuid: 352a1004d31843e98da6f1e1c8e712d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716828174643
+status: 3
+tags: []
+user_id: codespace

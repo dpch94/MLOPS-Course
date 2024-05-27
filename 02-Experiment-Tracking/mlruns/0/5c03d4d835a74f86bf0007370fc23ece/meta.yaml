@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5c03d4d835a74f86bf0007370fc23ece/artifacts
+end_time: 1716826537031
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c03d4d835a74f86bf0007370fc23ece
+run_name: sneaky-squid-751
+run_uuid: 5c03d4d835a74f86bf0007370fc23ece
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716826525288
+status: 3
+tags: []
+user_id: codespace

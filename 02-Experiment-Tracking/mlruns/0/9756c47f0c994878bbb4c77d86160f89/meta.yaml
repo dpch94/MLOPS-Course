@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9756c47f0c994878bbb4c77d86160f89/artifacts
+end_time: 1716831461683
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9756c47f0c994878bbb4c77d86160f89
+run_name: bouncy-sponge-401
+run_uuid: 9756c47f0c994878bbb4c77d86160f89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716831449967
+status: 3
+tags: []
+user_id: codespace

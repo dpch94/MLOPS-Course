@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0d7d31a8324c4aaaba902c3425f4422d/artifacts
+end_time: 1716827136542
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d7d31a8324c4aaaba902c3425f4422d
+run_name: shivering-auk-722
+run_uuid: 0d7d31a8324c4aaaba902c3425f4422d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716827124755
+status: 3
+tags: []
+user_id: codespace
